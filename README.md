@@ -1,4 +1,4 @@
-## Hi, I'm Nicolás Preiti 👋
+# Hi, I'm Nicolás Preiti 👋
 
 ### About me
 - :rocket: Currently I'm learning web development
