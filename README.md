@@ -1,5 +1,8 @@
 ## Hi, I'm Nicolás Preiti 👋
 
+### About me
+- :rocket: Currently I'm learning web development
+- :heart: I like acquire new knowledge
 
 ### Technologies
 <div display="flex">
