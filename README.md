@@ -24,6 +24,8 @@
   <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/html-5.png" />
   <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/css-3.png" />
   <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/js.png" />
-  <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/node-js.png" />
   <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/ts.png" />
+  <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/node-js.png" />
+  <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/mysql.png" />
+  <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/react.png" />
 </div>
