@@ -34,3 +34,6 @@
   <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/git.png" />
   <img class="skills" style="width:40px; height:40px; object-fit:contain;" src="https://raw.githubusercontent.com/NicolasPreiti/NicolasPreiti/main/images/swagger.png" />
 </div>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolaspreiti&show_icons=true&locale=en&layout=compact" alt="nicolaspreiti" /></p>
